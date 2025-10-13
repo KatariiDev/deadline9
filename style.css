@@ -25,7 +25,7 @@ body {
 
 .h-box-content {
     width: 552px;
-    height: 450px;
+    height: 460px;
     display: flex;
     flex-direction: column;
     gap: 23px;
@@ -252,7 +252,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    gap: 20px;
 }
 
 .b-2-content {
@@ -288,6 +287,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     gap: 32px;
 }
 
