@@ -344,6 +344,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
+    top: 3px;
 }
 
 .b-container-3 {
@@ -656,12 +658,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 84px;
+    gap: 70px;
+    width: 1088px;
+    height: 42.98px;
 }
 
 .img-pos-top {
     position: relative;
-    top: -7px;
+    top: -4px;
 }
 
 .b-7-box-ch-content {
@@ -930,7 +934,7 @@ body {
 }
 
 .f-2-input {
-    width: 302px;
+    width: 309.84px;
     height: 48px;
     margin: 0;
     padding: 0 0 0 10px;
@@ -940,8 +944,8 @@ body {
 }
 
 .f-2-subscribe-button {
-    width: 132px;
-    height: 47.4px;
+    width: 134.16px;
+    height: 48px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -955,7 +959,7 @@ body {
 
 .f-2-box-social {
     display: flex;
-    gap: 20px;
+    gap: 16px;
 }
 
 .box-social-img {
