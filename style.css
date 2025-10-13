@@ -905,8 +905,8 @@ body {
 
 .f-container-2 {
     display: flex;
-    justify-content: center;
-    gap: 110px;
+    justify-content: space-between;
+    width: 1088px;
 }
 
 .f-2-box-content {
