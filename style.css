@@ -939,9 +939,9 @@ body {
     border: 1.6px solid rgba(104, 115, 125, 1);
 }
 
-.f-2-subcribe-button {
+.f-2-subscribe-button {
     width: 132px;
-    height: 48px;
+    height: 47.4px;
     display: flex;
     justify-content: center;
     align-items: center;
